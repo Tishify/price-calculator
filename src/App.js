@@ -181,7 +181,10 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="header-content">
-          <div className="logo">EU App Calculator</div>
+          <div className="logo">
+            <img src="/favicon.ico" alt="EU App Calculator" className="logo-icon" />
+            <span>EU App Calculator</span>
+          </div>
         </div>
       </header>
 

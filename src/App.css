@@ -61,6 +61,16 @@ body {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--primary-green);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 /* Main Content */
@@ -363,6 +373,15 @@ body {
   
   .header-content {
     padding: 0 1rem;
+  }
+  
+  .logo {
+    font-size: 1.2rem;
+  }
+  
+  .logo-icon {
+    width: 28px;
+    height: 28px;
   }
   
   .hero {
