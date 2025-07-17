@@ -1,8 +1,8 @@
 {
-  "name": "price-calculator",
+  "name": "tishify-price-calculator",
   "version": "1.0.0",
   "homepage": "https://tishify.github.io/price-calculator",
-  "description": "EU Market App Development Price Calculator",
+  "description": "Tishify Price Calculator - EU Market App Development Price Calculator",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",

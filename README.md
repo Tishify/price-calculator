@@ -1,4 +1,4 @@
-# EU App Development Price Calculator
+# Tishify Price Calculator
 
 A modern, interactive price calculator for EU market app development services. Built with React and following the Tishify design system.
 

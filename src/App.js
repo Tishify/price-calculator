@@ -182,8 +182,8 @@ function App() {
       <header className="header">
         <div className="header-content">
           <div className="logo">
-            <img src="/favicon.ico" alt="EU App Calculator" className="logo-icon" />
-            <span>EU App Calculator</span>
+            <img src="/logo.png" alt="Tishify Price Calculator" className="logo-icon" />
+            <span>Tishify Price Calculator</span>
           </div>
         </div>
       </header>
@@ -193,7 +193,7 @@ function App() {
         {/* Hero Section */}
         <section className="hero">
           <div className="container">
-            <h1>EU App Development Price Calculator</h1>
+            <h1>Tishify Price Calculator</h1>
             <p>Calculate the cost of developing your app for the European market. Get accurate estimates based on features, complexity, and team size.</p>
           </div>
         </section>
