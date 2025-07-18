@@ -1,0 +1,176 @@
+{
+  "basePrices": {
+    "consulting": {
+      "small": 300,
+      "medium": 900,
+      "large": 2700
+    },
+    "techSupport": {
+      "small": 500,
+      "medium": 1750,
+      "large": 3500
+    },
+    "softwareDevelopment": {
+      "small": 1000,
+      "medium": 3000,
+      "large": 7000
+    },
+    "dataAnalytics": {
+      "small": 700,
+      "medium": 1400,
+      "large": 2100
+    }
+  },
+  "complexityMultipliers": {
+    "simple": 0.8,
+    "medium": 1.0,
+    "complex": 1.7
+  },
+  "features": {
+    "customDevelopment": {
+      "price": 5000,
+      "name": "Custom Development"
+    },
+    "maintenance": {
+      "price": 200,
+      "name": "Maintenance"
+    },
+    "training": {
+      "price": 300,
+      "name": "Training"
+    },
+    "documentation": {
+      "price": 100,
+      "name": "Documentation"
+    },
+    "integration": {
+      "price": 100,
+      "name": "Integration"
+    },
+    "testing": {
+      "price": 100,
+      "name": "Testing"
+    },
+    "deployment": {
+      "price": 100,
+      "name": "Deployment"
+    },
+    "monitoring": {
+      "price": 300,
+      "name": "Monitoring"
+    },
+    "optimization": {
+      "price": 500,
+      "name": "Optimization"
+    }
+  },
+  "teamSizeMultiplier": {
+    "1": 1.0,
+    "2": 1.5,
+    "3": 1.8,
+    "4": 2.1,
+    "5": 2.4
+  },
+  "timelineMultiplier": {
+    "2": 1.4,
+    "4": 1.2,
+    "6": 1.0,
+    "8": 0.9,
+    "12": 0.8,
+    "16": 0.7
+  },
+  "serviceTypes": {
+    "consulting": {
+      "name": "IT Consulting",
+      "description": "Professional IT consulting services"
+    },
+    "techSupport": {
+      "name": "Tech Support",
+      "description": "Technical support and maintenance"
+    },
+    "softwareDevelopment": {
+      "name": "Software Development",
+      "description": "Custom software development"
+    },
+    "dataAnalytics": {
+      "name": "Data Analytics",
+      "description": "Data analysis and insights"
+    }
+  },
+  "projectSizes": {
+    "small": {
+      "name": "Small Project",
+      "description": "Basic services and features"
+    },
+    "medium": {
+      "name": "Medium Project",
+      "description": "Standard services with additional features"
+    },
+    "large": {
+      "name": "Large Project",
+      "description": "Comprehensive services with full features"
+    }
+  },
+  "complexityLevels": {
+    "simple": {
+      "name": "Simple",
+      "description": "Basic requirements and standard implementation"
+    },
+    "medium": {
+      "name": "Medium",
+      "description": "Moderate complexity with custom features"
+    },
+    "complex": {
+      "name": "Complex",
+      "description": "Advanced requirements with sophisticated implementation"
+    }
+  },
+  "timelineOptions": {
+    "2": {
+      "name": "2 Weeks (Rush)",
+      "description": "Expedited delivery with premium pricing"
+    },
+    "4": {
+      "name": "4 Weeks",
+      "description": "Standard delivery timeline"
+    },
+    "6": {
+      "name": "6 Weeks (Standard)",
+      "description": "Recommended timeline for most projects"
+    },
+    "8": {
+      "name": "8 Weeks",
+      "description": "Extended timeline with slight discount"
+    },
+    "12": {
+      "name": "12 Weeks",
+      "description": "Long-term project with significant discount"
+    },
+    "16": {
+      "name": "16 Weeks (Extended)",
+      "description": "Maximum timeline with maximum discount"
+    }
+  },
+  "teamSizeOptions": {
+    "1": {
+      "name": "1 Team Member",
+      "description": "Single developer/consultant"
+    },
+    "2": {
+      "name": "2 Team Members",
+      "description": "Small team with specialized roles"
+    },
+    "3": {
+      "name": "3 Team Members",
+      "description": "Standard team size"
+    },
+    "4": {
+      "name": "4 Team Members",
+      "description": "Larger team for complex projects"
+    },
+    "5": {
+      "name": "5+ Team Members",
+      "description": "Large team for enterprise projects"
+    }
+  }
+} 

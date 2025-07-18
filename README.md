@@ -1,26 +1,26 @@
 # Tishify Price Calculator
 
-A modern, interactive price calculator for EU market app development services. Built with React and following the Tishify design system.
+A modern, interactive price calculator for professional IT services. Built with React and designed for Tishify services including consulting, tech support, software development, and data analytics.
 
 ## 🚀 Features
 
 ### Interactive Calculator
-- **App Type Selection**: Mobile apps (iOS, Android, Cross-platform) or Web applications
-- **Platform Options**: Choose from different platforms based on app type
-- **Complexity Levels**: Simple, Medium, or Complex app development
-- **Feature Toggles**: 12+ additional features with individual pricing
-- **Team Size**: 1-5+ developers with corresponding multipliers
-- **Timeline Options**: 6-20 weeks with rush/standard/relaxed pricing
+- **Service Type Selection**: IT Consulting, Tech Support, Software Development, or Data Analytics
+- **Project Size Options**: Small, Medium, or Large projects
+- **Complexity Levels**: Simple, Medium, or Complex project requirements
+- **Service Toggles**: 12+ additional services with individual pricing
+- **Team Size**: 1-5+ team members with corresponding multipliers
+- **Timeline Options**: 2-16 weeks with rush/standard/extended pricing
 
 ### Real-time Price Calculation
-- **Dynamic Updates**: Prices update instantly as you toggle features
+- **Dynamic Updates**: Prices update instantly as you toggle services
 - **Detailed Breakdown**: See exactly what each component costs
-- **EU Pricing**: All prices in EUR with proper formatting
+- **EUR Pricing**: All prices in EUR with proper formatting
 - **Multipliers**: Complexity, team size, and timeline affect final price
 
 ### Modern UI/UX
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile
-- **Tishify Design System**: Clean, professional green branding
+- **Professional Design**: Clean, professional branding
 - **Interactive Elements**: Smooth hover effects and transitions
 - **Accessibility**: Proper touch targets and keyboard navigation
 
@@ -75,31 +75,29 @@ A modern, interactive price calculator for EU market app development services. B
 ## 💰 Pricing Structure
 
 ### Base Prices (EUR)
-- **iOS Mobile App**: €25,000
-- **Android Mobile App**: €22,000
-- **Cross-Platform Mobile**: €35,000
-- **Simple Web App**: €15,000
-- **Complex Web App**: €25,000
-- **E-commerce Platform**: €40,000
+- **IT Consulting**: Small (€1,000), Medium (€5,000), Large (€10,000)
+- **Tech Support**: Small (€1,000), Medium (€3,500), Large (€7,000)
+- **Software Development**: Small (€1,000), Medium (€15,000), Large (€30,000)
+- **Data Analytics**: Small (€1,000), Medium (€7,000), Large (€15,000)
 
-### Feature Add-ons
-- **User Authentication**: €3,000
-- **Payment Integration**: €5,000
-- **Push Notifications**: €2,000
-- **Real-time Chat**: €8,000
-- **Maps Integration**: €4,000
-- **Social Login**: €2,500
-- **Analytics**: €2,000
-- **Admin Panel**: €6,000
-- **Multi-language**: €3,000
-- **Offline Mode**: €4,000
-- **Biometric Auth**: €3,500
-- **Cloud Storage**: €3,000
+### Additional Services
+- **Custom Development**: €5,000
+- **Data Analytics**: €3,000
+- **Tech Support**: €2,000
+- **Maintenance**: €1,500
+- **Training**: €2,500
+- **Documentation**: €1,000
+- **Integration**: €4,000
+- **Testing**: €2,000
+- **Deployment**: €1,500
+- **Monitoring**: €2,000
+- **Optimization**: €3,000
+- **Consulting**: €2,000
 
 ### Multipliers
-- **Complexity**: Simple (0.8x), Medium (1.0x), Complex (1.5x)
-- **Team Size**: 1 dev (1.0x), 2 devs (1.2x), 3 devs (1.4x), 4 devs (1.6x), 5+ devs (1.8x)
-- **Timeline**: 6 weeks (1.3x), 8 weeks (1.2x), 10 weeks (1.1x), 12 weeks (1.0x), 16 weeks (0.9x), 20 weeks (0.8x)
+- **Complexity**: Simple (0.8x), Medium (1.0x), Complex (1.4x)
+- **Team Size**: 1 member (1.0x), 2 members (1.3x), 3 members (1.6x), 4 members (1.9x), 5+ members (2.2x)
+- **Timeline**: 2 weeks (1.4x), 4 weeks (1.2x), 6 weeks (1.0x), 8 weeks (0.9x), 12 weeks (0.8x), 16 weeks (0.7x)
 
 ## 🔧 Available Scripts
 
@@ -119,19 +117,19 @@ A modern, interactive price calculator for EU market app development services. B
 ## 🎯 Key Features
 
 ### Interactive Switch Buttons
-- Toggle features on/off with visual feedback
+- Toggle services on/off with visual feedback
 - Real-time price updates
 - Smooth animations and transitions
 
 ### Form Validation
-- Dynamic platform options based on app type
+- Dynamic project size options based on service type
 - Proper input handling and state management
 - Responsive form layout
 
 ### Price Calculation
 - Complex pricing algorithm with multiple factors
 - Detailed cost breakdown
-- EU currency formatting
+- EUR currency formatting
 
 ### Responsive Design
 - Mobile-first approach
@@ -169,4 +167,4 @@ For questions or support, please open an issue on GitHub or contact the developm
 
 ---
 
-**Built with ❤️ for the EU market** 
+**Built with ❤️ for professional IT services** 
